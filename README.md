@@ -70,7 +70,13 @@ We provide one folder per patient, containing:
 | 53 | 42  |22.66 |     IC  |R.r=1.78; R.l=1.88| Benign = 0 Malignant = 2      | Benign = 0 Malignant = 0   | Right Breast: L=(30.7x32.3x22.1); S=(4.8x5.7x4.8)  |
 | 54 | 49  |25.86 |        -|R.r=1.73; R.l=1.80| Benign = 0 Malignant = 0     |Benign = 1 Malignant = 0     |Left Breast: (6.8x6.1x5.7)   |
 | 55 | 61  |21.88 |    PC   |R.r=1.66; R.l=1.77| Benign = 0 Malignant = 1     | Benign = 0 Malignant = 0    |Right Breast: (20.9x20.8x15.7)   |
-| 56 | 56  |22.66 |    -   | ?? | Benign = 0 Malignant = 1/0     | Benign = 0 Malignant = 0    |Right Breast: (9.9)   |
+| 56 | 56  |22.66 |    -   | - | Benign = 0 Malignant = 1/0     | Benign = 0 Malignant = 0    |Right Breast: (6.73x9.4x6.84)   |
+| 57 | 43  |26.35 |    -   | - | ?     | ?    |   |
+| 58 | 54  |28.26 |    -   | - | Benign = 2 Malignant = 0     | Benign = 0 Malignant = 0    |Right Breast: S=(6.55x7.22x5.79); XS=(4.58x5.99x3.84)   |
+| 59 | 56  |25.63 |    -   | - | Need further exam     | Benign = 2 Malignant = 0    |Left Breast: XS=(4.26x4.13x3.71); S=(4.89x4.73x4.76)   |
+| 60 | 46  |23.44 |    -   | - | Need further exam     | Need further exam    |   |
+| 61 | 56  |26.29 |    -   | - | Need further exam     | Need further exam    |   |
+
 
 BMI = Body Mass Index;
 R = ratio between fatty and fibroglandular tissues. (R.r and R.l indicate the ratio for the right and left breast, respectively)
