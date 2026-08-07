@@ -82,7 +82,8 @@ We provide one folder per patient, containing:
 | 73 | 59  |35.38 |    -   | - | Benign = 0 Malignant = 2     | Benign = 0 Malignant = 0    | S=(7.03x2.9x6.59); XS=(4.08x2.86x6.91)  |
 | 74 | 66  |23.24 |    -   | - | Benign = 1 Malignant = 1     | Benign = 2 Malignant = 0    |Right Breast: Benign=(20.1x23.9x22.7); Malignant=(21.2x27.7x18.7); Left Breast : M=(14.3x6.19x13.6); S=(6.72x7.91x8.26)  |
 | 75 | 48  |25.24 |    -   | - | Benign = 0 Malignant = 2     | Benign = 1 Malignant = 0    |Right Breast: S=(4.06x7.36x3.75); XS=(3.1x4.66x3.72); Left Breast: (9.83x7x9.94)  |
-| 76 | 48  |25.24 |    -   | - | Benign = 0 Malignant = 0     | Benign = 0 Malignant = 1    | Bad segmentation  |
+| 76 | 48  |25.24 |    -   | - | Benign = 0 Malignant = 0     | Benign = 0 Malignant = 1    | Right Breast: (5.11x4.84x5.23); Left Breast: (15x13x15.8) (Part of the thick skin segmented too)  |
+| 77 | 68  |20.96 |    -   | - | Benign = 1 Malignant = 0     | Benign = 0 Malignant = 1    | Bad segmentation  |
 | 78 | 39  |23.88 |    -   | - | Benign = 1 Malignant = 0     | Benign = 0 Malignant = 1    |Right Breast: (3.79x3.05x4.07); Left Breast: (25x16.8x19.3)  |
 | 79 | 41  |27.68 |    -   | - | ?   | Benign = 0 Malignant = 1    |Left Breast: (2.32x2.75x2.48)  |
 | 80 | 46  |21.83 |    -   | - | Benign = 1 Malignant = 0  | ?    |Right Breast: (16.8x20x24.2)  |
