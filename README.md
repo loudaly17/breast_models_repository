@@ -70,9 +70,9 @@ We provide one folder per patient, containing:
 | 53 | 42  |22.66 |     IC  |R.r=1.78; R.l=1.88| Benign = 0 Malignant = 2      | Benign = 0 Malignant = 0   | Right Breast: L=(30.7x32.3x22.1); S=(4.8x5.7x4.8)  |
 | 54 | 49  |25.86 |        -|R.r=1.73; R.l=1.80| Benign = 0 Malignant = 0     |Benign = 1 Malignant = 0     |Left Breast: (6.8x6.1x5.7)   |
 | 55 | 61  |21.88 |    PC   |R.r=1.66; R.l=1.77| Benign = 0 Malignant = 1     | Benign = 0 Malignant = 0    |Right Breast: (20.9x20.8x15.7)   |
-| 56 | 56  |22.66 |    -   | - | Benign = 0 Malignant = 1/0     | Benign = 0 Malignant = 0    |Right Breast: (12.3x11.1x12.4)   |
+| 56 | 56  |22.66 |    -   | - | Benign = 0 Malignant = 1/0     | Benign = 0 Malignant = 0    |Right Breast: (12.3x11.1x12.4)   (poor segmentation) |
 | 57 | 43  |26.35 |    -   | - | Only able to segment cyst     | ?    |   |
-| 58 | 54  |28.26 |    -   | - | Benign = 2 Malignant = 0     | Benign = 0 Malignant = 0    |Right Breast: S=(5.55x4.05x5.57); XS=(5.23x2.87x5.64)   |
+| 58 | 54  |28.26 |    -   | - | Benign = 2 Malignant = 0     | Benign = 0 Malignant = 0    |Right Breast: S=(5.55x4.05x5.57); XS=(5.23x2.87x5.64)  (only able to segment quist, not compatible w/ med reports) |
 | 59 | 56  |25.63 |    -   | - | Need further exam     | Benign = 2 Malignant = 0    |Left Breast: XS=(4.95x4.15x4.95); S=(5.29x5.27x5.09)   |
 | 60 | 46  |23.44 |    -   | - | Need further exam     | Need further exam    |   |
 | 61 | 57  |26.29 |    -   | - | Need further exam     | Need further exam    |   |
